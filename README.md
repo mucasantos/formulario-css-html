@@ -54,10 +54,10 @@ Você pode acessar o projeto clicando <a href="#" target="_blank">aqui</a>
 
 <a href="https://github.com/"> <img src="" width="60px;" alt="mucasantos"/>
   
- Feito com :blue_heart: por <b>Samuel Santos</b></a>  <a href=""> </a>
+ Feito com ❤️: por <b>Samuel Santos</b></a>  <a href=""> </a>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelsantos/)](https://www.linkedin.com/in/samuelsantos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santos-b9a98055/)](https://www.linkedin.com/in/samuel-santos-b9a98055/)
 [![Gmail Badge](https://img.shields.io/badge/-mucasantos@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mucasantos@gmail.com)](mailto:mucasantos@gmail.com)<br>
 
 
